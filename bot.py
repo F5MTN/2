@@ -1112,4 +1112,4 @@ def solve_captcha_with_buster():
         
         return True
     except Exception as e:
-        print(f"ف
+        print(f"فشل في استخدام إضافة Buster: {e}")
