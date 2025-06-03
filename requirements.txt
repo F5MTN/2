@@ -1,0 +1,5 @@
+selenium
+faker
+webdriver-manager
+requests
+pillow
